@@ -1,6 +1,7 @@
 # Prodotto Matrice-Matrice Parallelo su cluster MIMD a memoria distribuita
 Algoritmo per il calcolo del prodotto tra due matrici quadrate su Macchina MIMD a memoria distribuita.
-L'algoritmo è scritto in Linguaggio C e utilizza le funzionalità per la programmazione multiprocessore offerte dalla libreria Open MPI
+L'algoritmo è scritto in Linguaggio C e utilizza le funzionalità per la programmazione multiprocessore offerte dalla libreria Open MPI.
+Viene implementato l'algoritmo di BMR per il calcolo distribuito del prodotto tra matrici.
 <br><br>
 Progetto svolto nell'ambito del corso di Parallel And Distributed Computing della laurea magistrale in Informatica presso l'Università degli studi di Napoli Federico II
 
